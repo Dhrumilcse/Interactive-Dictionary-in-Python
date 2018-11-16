@@ -18,8 +18,10 @@ dictionary.json
 ```
 
 ### Step by Step Solution
+I have created different files for each step in creating the interactive dictionary, here's the description of what each file does. 
+
 ``` 
-[dictionary_1.py](dictionary_1.py)
+dictionary_1.py
 ```
 > Load the data, and just check if data loaded correctly.
 
