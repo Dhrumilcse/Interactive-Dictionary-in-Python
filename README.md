@@ -19,7 +19,7 @@ dictionary.json
 
 ### Step by Step Solution
 ``` 
-dictionary_1.py
+[dictionary_1.py](dictionary_1.py)
 ```
 > Load the data, and just check if data loaded correctly.
 
