@@ -12,7 +12,7 @@ import difflib
 ## 2. Understanding files in the directory
 
 ### Data
-The data is in .json format and can be found as,
+The data is in .json format. If you are not aware what JSON is and how it works I recommend referring to this [article](https://developers.squarespace.com/what-is-json/).
 ```
 dictionary.json
 ```
