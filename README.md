@@ -21,7 +21,7 @@ dictionary.json
 ``` 
 dictionary_1.py
 ```
-> Load the data, and just check is the data has loaded correctly.
+> Load the data, and just check if data loaded correctly.
 
 ```
 dictionary_2.py
@@ -32,3 +32,36 @@ dictionary_2.py
 dictionary_3.py
 ```
 > Removing the case-sensitivity from the program. For example 'Rain' and 'rain' will give same output.
+
+```
+dictionary_4-1.py
+dictionary_4-2.py
+```
+> Learn how to 'difflib' works in order to suggest a similar word.
+
+```
+dictionary_5.py
+```
+> Use 'difflib' in our code to retrieve closest match
+
+```
+dictionary_6.py
+```
+> If the suggested word is what user wants, retrive the meaning of suggested word.
+
+```
+dictionary_7.py
+```
+> If the word has more than 1 definition, retrive all by iterating.
+
+Note: All files are integrated with comments to help you understand each and every line/command of the code.
+
+### Run All Together
+Even though the dictionary_7.py is the complete file, I made a new copy of that file namely interactive_dictionary.py to serve as a final file.
+```
+python3 interactive_dictionary.py
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
