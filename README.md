@@ -18,7 +18,17 @@ dictionary.json
 ```
 
 ### Step by Step Solution
-* dictionary_1.py
-Load the data, and just check is the data has loaded correctly.
+``` 
+dictionary_1.py
+```
+> Load the data, and just check is the data has loaded correctly.
 
-* dictionary_2.py
+```
+dictionary_2.py
+```
+> Check for non-existing words.
+
+```
+dictionary_3.py
+```
+> Removing the case-sensitivity from the program. For example 'Rain' and 'rain' will give same output.
