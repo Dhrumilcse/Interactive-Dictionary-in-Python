@@ -39,7 +39,7 @@ dictionary_3.py
 dictionary_4-1.py
 dictionary_4-2.py
 ```
-> Learn how to 'difflib' works in order to suggest a similar word.
+> Learn how 'difflib' works in order to suggest a similar word.
 
 ```
 dictionary_5.py
